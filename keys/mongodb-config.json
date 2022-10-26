@@ -1,0 +1,4 @@
+{
+  "uri": "mongodb+srv://dbuser:48nZ7vsjMHkYkaGv@cluster0.y0le23y.mongodb.net/?retryWrites=true&w=majority",
+  "database": "test"
+}
